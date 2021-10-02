@@ -2,6 +2,7 @@
 title: Deepak "Mr.47" Thamatam
 role: IT Support Engineer, Computer Savvy, Power user, Superuser, Ethical
   Hacker, Bug Bounty Hunter, Tech Enthusiast, Gamer.
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Cloud Computing
@@ -42,7 +43,7 @@ education:
     - course: Diploma in Electrical Engineering
       institution: " "
       year: ""
-email: deepakthamatam@gmail.com
+email: ""
 superuser: true
 highlight_name: true
 ---
