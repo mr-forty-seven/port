@@ -1,5 +1,5 @@
 ---
-title: Deepak "Mr.47" T
+title: Deepak "Mr.47" T.
 role: IT Support Engineer, Computer Savvy, Power user, Superuser, Ethical
   Hacker, Bug Bounty Hunter, Tech Enthusiast, Gamer.
 avatar_filename: avatar.jpg
@@ -63,9 +63,9 @@ Current projects :
 * Encrypted data backup solution.
 * Setup and daily drive android with Lineage OS
 
-Planned: 
+Planned:
 
-Finished: 
+Finished:
 
 * Browser privacy and security setup.
 * Private email setup.
