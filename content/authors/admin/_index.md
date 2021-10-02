@@ -1,5 +1,5 @@
 ---
-title: Deepak "Mr.47" Thamatam
+title: Deepak "Mr.47" T
 role: IT Support Engineer, Computer Savvy, Power user, Superuser, Ethical
   Hacker, Bug Bounty Hunter, Tech Enthusiast, Gamer.
 avatar_filename: avatar.jpg
