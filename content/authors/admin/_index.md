@@ -1,77 +1,67 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+title: Deepak "Mr.47" Thamatam
+role: IT Support Engineer, Computer Savvy, Power user, Superuser, Ethical
+  Hacker, Bug Bounty Hunter, Tech Enthusiast, Gamer.
+bio: ""
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-# Education to show in About widget
+  - Cloud Computing
+  - Network Management
+  - Server Administration
+  - Ethical Hacking
+  - Bugbounty
+  - Custom PC and Keyboards Building
+  - SelfHosted HomeLab
+  - Security & Privacy
+  - Troubleshooting
+  - Web Dev
+  - PC Gaming
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/Deepak_Mr47
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/mr-forty-seven
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/thamatamdeepak/
+organizations:
+  - name: Swinburne University
+    url: https://swinburne.edu.au/
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
-# Highlight the author in author lists? (true/false)
+    - course: Master of Information Technology
+      institution: Swinburne University
+      year: 2020
+    - course: Bachelor of Electrical Engineering
+      institution: " "
+      year: ""
+    - course: Diploma in Electrical Engineering
+      institution: " "
+      year: ""
+email: deepakthamatam@gmail.com
+superuser: true
 highlight_name: true
 ---
+Hello! I'm Deepak, I work as an IT Support Engineer at MCG Computer in South Melbourne. This site is an extension of my resume and LinkedIn profile and for myself to share more information about my interests and hobby projects I'm working on.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm currently working on self hosted home server project with various opensource applications that i use everyday and not rely on big companies with my data.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My aim is to take control of my privacy, security and data by using as many open sources software as i can and selfhosting them by myself at home or on a remote private server. I plan on doing this on the go over the next 1-2 years while learning various things like setting up homelab, Pihole, Pfsense, VPN to access from outside, Nextcloud file sync & share, FreeNAS on single server with virtualization and using containers.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I will be linking all the projects below to blog post with detailed setup later on.
+
+Current projects :
+
+* This website. (Will host this site myself in the future.)
+* Setting up CalDev, CardDev for my Calender and Contacts.
+* Selfhost encrypted notes taking app for building my KB.
+* Encrypted data backup solution.
+* Private email setup.
+* Daily driving Ubuntu.
+* Setup and daily drive android with Lineage OS
+
+Planned:
