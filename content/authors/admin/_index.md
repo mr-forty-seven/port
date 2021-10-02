@@ -61,8 +61,12 @@ Current projects :
 * Setting up CalDev, CardDev for my Calender and Contacts.
 * Selfhost encrypted notes taking app for building my KB.
 * Encrypted data backup solution.
-* Private email setup.
-* Daily driving Ubuntu.
 * Setup and daily drive android with Lineage OS
 
-Planned:
+Planned: 
+
+Finished: 
+
+* Browser privacy and security setup.
+* Private email setup.
+* Daily drive ubuntu.
