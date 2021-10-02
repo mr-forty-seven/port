@@ -5,7 +5,7 @@
 
 title: Mr.47 # Website name
 baseurl: 'https://Mr47.me' # Website URL
-copyright: 'Created in 2021' # Footer text, e.g. '© {year} Me'
+copyright: 'Created in and © {year} Me' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
