@@ -43,7 +43,7 @@ education:
     - course: Diploma in Electrical Engineering
       institution: " "
       year: ""
-email: ""
+email: "deepakthamatam@gmail.com"
 superuser: true
 highlight_name: true
 ---
