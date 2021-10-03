@@ -22,29 +22,46 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+  - title: IT Support Intern and Engineer
+    company: MCG Computers
+    company_url: 'https://mcgcomputer.com.au'
+    company_logo: button
+    location: South Melbourne
+    date_start: '2021-05-01'
     date_end: ''
     description: |2-
         Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
+
+        * Generated 2 new source of income for the company by creating services likes Password manager and Vulnerability assessment services to sell it to clients.
+        * Providing technical support to customers via telephone, email, RDP, personal assistant and through ZOHO Desk ticketing system.
+        * Perform network, printer, OS, smartphone, computer and server hardware troubleshooting.
+        * Assemble, maintain and configure new computer, servers and network and upgrading the old and required hardware based on clients requirements.
+        * Placing orders for replacement parts from partners to fix computers and servers.
+        * Create Disaster recovery plans for clients and restore data in the event of ransomware attacks.
+        * Implemented solutions for a client with network encrypted drive sharing via window server and Veracrypt for secure local storage and access between specific users.
+        * Created various projects documentation with step by step instructions on how to setup and solve common problems for various solutions provided by the company.
+        * Responsible for creating a new revenue source for the company by creating  and providing a new services such as password management tools, vulnerability assessments to sell for clients.
+        * Performed user and group management on windows server and office 365 for user on boarding for clients.
+
+
+  - title: ICT Support Engineer
+    company: Dinesmart
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: cogwheel
+    location: India
+    date_start: '2017-06-01'
+    date_end: '2028-06-31'
+    description: IT Support
+
+   - title: Bug Bounty hunter
+      company: Dinesmart
+      company_url: ''
+      company_logo: cogwheel
+      location: India
+      date_start: '2017-06-01'
+      date_end: '2028-06-31'
+      description: IT Support
 
 design:
-  columns: '2'
+  columns: '3'
 ---
