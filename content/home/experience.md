@@ -44,14 +44,23 @@ experience:
         * Performed user and group management on windows server and office 365 for user on boarding for clients.
 
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: ICT Support Engineer
+    company: Dinesmart
     company_url: ''
     company_logo: it
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: India
+    date_start: '2017-06-01'
+    date_end: '2018-06-31'
+    description: |2-
+        Responsibilities include:
+
+        * Assisting 10 staff members and 50 clients with technical problems and support services which included providing solutions for remote desktop access issues, password resets, Licensing issues, hardware upgrades for slow systems.
+        * Assemble and configuring all Desktop, Laptops with Windows and MacOs and mobile devices for testing and deployment.
+        * Handling daily maintenance of the windows software by performing routine scans using Malwarebytes, Hitman pro, Cloud storage backups, PC hardware and networking hardware in the office environment.
+        * Troubleshooting and solving computers and network devices for performance issue and log the faults and operational reports in excel and using Group policy modelling wizard for windows-based problems.
+        * Providing training and support to staff in the effective use of software applications and practising safe security measures while viewing emails and using USB drives.
+        * Updating company website with updated product information and new releases and maintaining website hosting using cPanel. 
+        * Maintain and configure Servers and network and upgrading the old and required hardware based on company requirements.
 
 design:
   columns: '2'
