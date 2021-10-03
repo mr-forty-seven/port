@@ -25,7 +25,7 @@ experience:
   - title: IT Support Engineer & Intern
     company: MCG Computers
     company_url: 'https://mcgcomputer.com.au'
-    company_logo: button
+    company_logo: org-gc
     location: South Melbourne
     date_start: '2021-05-01'
     date_end: ''
