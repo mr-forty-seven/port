@@ -25,7 +25,7 @@ experience:
   - title: IT Support Engineer & Intern
     company: MCG Computers
     company_url: 'https://mcgcomputer.com.au'
-    company_logo: org-gc
+    company_logo: work
     location: South Melbourne
     date_start: '2021-05-01'
     date_end: ''
@@ -43,20 +43,15 @@ experience:
         * Responsible for creating a new revenue source for the company by creating  and providing a new services such as password management tools, vulnerability assessments to sell for clients.
         * Performed user and group management on windows server and office 365 for user on boarding for clients.
 
-   - title: Bug Bounty hunter
-      company: Freelancer
-      company_url: 'https://mr47.me/#accomplishments'
-      company_logo: hacker
-      location: India
-      date_start: '2012-01-01'
-      date_end: '2017-01-31'
-      description: |2-
-          Responsibilities include:
 
-          * Finding security loopholes, vulnerabilities such as XSS, Stored XSS, DOM based XSS, CSRF, SQLi, Open Path, Privilege escalation, Broken Authentication, Local file Inclusion, Remote file inclusion using Unix shells, exposing Sensitive data using APIs in Websites and Web applications used by various MNC’s.
-          * Assisting web developers in fixing the vulnerabilities by communicating and updating them on how to reproduce the issue.
-
-
+  - title: Professor of Semiconductor Physics
+    company: University X
+    company_url: ''
+    company_logo: it
+    location: California
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
+    description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '2'
