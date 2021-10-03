@@ -51,7 +51,7 @@ experience:
     location: India
     date_start: '2017-06-01'
     date_end: '2028-06-31'
-    description: IT Support
+    description: 'IT Support'
 
    - title: Bug Bounty hunter
       company: Dinesmart
@@ -60,7 +60,7 @@ experience:
       location: India
       date_start: '2017-06-01'
       date_end: '2028-06-31'
-      description: IT Support
+      description: 'IT Support'
 
 design:
   columns: '3'
