@@ -44,14 +44,14 @@ experience:
         * Performed user and group management on windows server and office 365 for user on boarding for clients.
 
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: ICT Support Engineer
+    company: DINESMART
     company_url: ''
     company_logo: it
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: India
+    date_start: '2017-06-01'
+    date_end: '2018-06-31'
+    description: IT Support for the company.
 
 design:
   columns: '2'
