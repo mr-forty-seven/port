@@ -50,7 +50,7 @@ experience:
     company_logo: it
     location: India
     date_start: '2017-06-01'
-    date_end: '2018-06-31'
+    date_end: '2018-06-01'
     description: IT Support.
 
 design:
