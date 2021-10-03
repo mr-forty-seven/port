@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: IT Support Intern and Engineer
+  - title: IT Support Engineer & Intern
     company: MCG Computers
     company_url: 'https://mcgcomputer.com.au'
     company_logo: button
@@ -44,24 +44,15 @@ experience:
         * Performed user and group management on windows server and office 365 for user on boarding for clients.
 
 
-  - title: ICT Support Engineer
-    company: Dinesmart
+  - title: Professor of Semiconductor Physics
+    company: University X
     company_url: ''
-    company_logo: cogwheel
-    location: India
-    date_start: '2017-06-01'
-    date_end: '2028-06-31'
-    description: 'IT Support'
-
-   - title: Bug Bounty hunter
-      company: Dinesmart
-      company_url: ''
-      company_logo: cogwheel
-      location: India
-      date_start: '2017-06-01'
-      date_end: '2028-06-31'
-      description: 'IT Support'
+    company_logo: org-x
+    location: California
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
+    description: Taught electronic engineering and researched semiconductor physics.
 
 design:
-  columns: '3'
+  columns: '2'
 ---
