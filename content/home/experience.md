@@ -43,16 +43,6 @@ experience:
         * Responsible for creating a new revenue source for the company by creating  and providing a new services such as password management tools, vulnerability assessments to sell for clients.
         * Performed user and group management on windows server and office 365 for user on boarding for clients.
 
-
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
-    
    - title: Bug Bounty hunter
       company: Freelancer
       company_url: 'https://mr47.me/#accomplishments'
@@ -69,5 +59,5 @@ experience:
 
 
 design:
-  columns: '3'
+  columns: '2'
 ---
