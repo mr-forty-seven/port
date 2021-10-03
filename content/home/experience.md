@@ -52,7 +52,22 @@ experience:
     date_start: '2016-01-01'
     date_end: '2020-12-31'
     description: Taught electronic engineering and researched semiconductor physics.
+    
+   - title: Bug Bounty hunter
+      company: Freelancer
+      company_url: 'https://mr47.me/#accomplishments'
+      company_logo: hacker
+      location: India
+      date_start: '2012-01-01'
+      date_end: '2017-01-31'
+      description: |2-
+          Responsibilities include:
+
+          * Finding security loopholes, vulnerabilities such as XSS, Stored XSS, DOM based XSS, CSRF, SQLi, Open Path, Privilege escalation, Broken Authentication, Local file Inclusion, Remote file inclusion using Unix shells, exposing Sensitive data using APIs in Websites and Web applications used by various MNC’s.
+          * Assisting web developers in fixing the vulnerabilities by communicating and updating them on how to reproduce the issue.
+
+
 
 design:
-  columns: '2'
+  columns: '3'
 ---
