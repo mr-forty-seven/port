@@ -53,7 +53,7 @@ I'm Deepak, I work as an IT Support Engineer at an MSP in South Melbourne. This 
 
 I'm currently working on self hosted home server project with various open-source applications that i use everyday and not rely on big companies with my data.
 
-My aim is to take control of my privacy, security and data by using as many open sources software as i can and self-hosted them by myself at home or on a remote private server. I plan on doing this on the go over the next 1-2 years while learning various things like setting up home-lab, Pihole, Pfsense, VPN to access from outside, Nextcloud file sync & share, FreeNAS on single server with nested virtualization and using docker containers.
+My aim is to take control of my privacy, security and data by using as many open sources software as i can and self-hosted them by myself at home or on a remote private server. I plan on doing this on the go over the next 1-2 years while learning various things like setting up home-lab, Pihole, Pfsense, VPN to access from outside, Nextcloud file sync & share, FreeNAS on single server with nested virtualization (cuz hardware ain't cheap :P ) and using docker containers.
 
 I will be linking all the projects below to blog post with detailed setup later on.
 
