@@ -1,18 +1,19 @@
 ---
 slides: example
 url_pdf: ""
-summary: Test summary
+title: Secure youself in browser
+summary: \>>
 url_video: ""
-date: 2021-10-03T05:42:48.951Z
+date: 2021-10-04T12:13:29.419Z
 external_link: ""
 url_slides: ""
-title: Test Project
+subtitle: ""
 tags:
-  - Test
+  - Privacy
 links: []
 image:
   caption: ""
   focal_point: ""
 url_code: ""
 ---
-Test Project
+> **Coming soon..**
