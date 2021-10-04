@@ -26,7 +26,6 @@ item:
 - certificate_url: https://mr47.me/post/getting-started/
   date_end: "2017-05-01"
   date_start: "2011-05-01"
-  company_logo: hacker
   description: |2-
 
     * Earned $16000+ USD rewards in bug bounty programs from Facebook, PayPal, AT&T, Yahoo, Yandex, Barracuda for reporting     XSS, Stored XSS, DOM based XSS, SQLi, CSRF, RFI, LFI, Path disclosure, URL redirection, Privilege escalation and Authentication bugs.
@@ -51,13 +50,13 @@ item:
   url: https://www.acronis.com/en-sg/
 
 
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
+- certificate_url:
+  date_end: ""
+  date_start: "2020-12-01"
+  description: "CCNA By David Bombal course"
+  organization: Cisco
+  organization_url:
+  title: 'CCNA Course On Udemy'
   url: ""
 
 design:
