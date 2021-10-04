@@ -26,8 +26,9 @@ item:
 - certificate_url:
   date_end: "2017-05-01"
   date_start: "2011-05-01"
-  description: "|2-   
-    * Earned $16000+ USD rewards in bug bounty programs from Facebook, PayPal, AT&T, Yahoo, Yandex, Barracuda for reporting XSS, Stored XSS, DOM based XSS, SQLi, CSRF, RFI, LFI, Path disclosure, URL redirection, Privilege escalation and Authentication bugs.
+  description: |2-
+     
+    "* Earned $16000+ USD rewards in bug bounty programs from Facebook, PayPal, AT&T, Yahoo, Yandex, Barracuda for reporting XSS, Stored XSS, DOM based XSS, SQLi, CSRF, RFI, LFI, Path disclosure, URL redirection, Privilege escalation and Authentication bugs.
     * Acknowledged 4 times in Microsoft Security Researcher Acknowledgement page for finding XSS, Stored XSS, Broken Authentication.
     * Acknowledged by companies like Intel, Apple, eBay, Adobe, Red hat, Oracle, HTC, Nokia, Nokia Siemens Network, Blackberry, Soundcloud, Ifixit, Zynga, Avira, Chargify, Yandex and many other MNC’s."
   organization: Freelance Work
