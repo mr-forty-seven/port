@@ -43,7 +43,7 @@ education:
     - course: Diploma in Electrical Engineering
       institution: " "
       year: ""
-email: deepakthamatam@gmail.com
+email: deepak@mr47.anonaddy.com
 superuser: true
 highlight_name: true
 ---
@@ -67,8 +67,12 @@ Current projects :
 
 Planned:
 
+* Big stuff (coming soon)
+
 Finished:
 
 * Browser privacy and security setup using Firefox containers and other plugins.
-* Private email setup.
+* Private email setup and using alias and relay domains. (Check contact info)
 * Daily drive Ubuntu.
+
+But, Isn't this too much work and waste of time? Nope! This is what i like doing in my free time all the time and keep myself busy :p
