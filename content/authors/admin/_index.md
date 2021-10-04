@@ -51,17 +51,17 @@ highlight_name: true
 
 I'm Deepak, I work as an IT Support Engineer at MCG Computer an MSP in South Melbourne. This site is an extension of my resume and LinkedIn profile and for myself to share more information about my interests and hobby projects I'm working on.
 
-I'm currently working on self hosted home server project with various opensource applications that i use everyday and not rely on big companies with my data.
+I'm currently working on self hosted home server project with various open-source applications that i use everyday and not rely on big companies with my data.
 
-My aim is to take control of my privacy, security and data by using as many open sources software as i can and selfhosting them by myself at home or on a remote private server. I plan on doing this on the go over the next 1-2 years while learning various things like setting up homelab, Pihole, Pfsense, VPN to access from outside, Nextcloud file sync & share, FreeNAS on single server with nested virtualization and using docker containers.
+My aim is to take control of my privacy, security and data by using as many open sources software as i can and self-hosted them by myself at home or on a remote private server. I plan on doing this on the go over the next 1-2 years while learning various things like setting up home-lab, Pihole, Pfsense, VPN to access from outside, Nextcloud file sync & share, FreeNAS on single server with nested virtualization and using docker containers.
 
 I will be linking all the projects below to blog post with detailed setup later on.
 
 Current projects :
 
 * This website. (Will host this site myself in the future.)
-* Setting up CalDev, CardDev for my Calender and Contacts.
-* Selfhost encrypted notes taking app for building my KB.
+* Setting up CalDev, CardDev for my Calendar and Contacts.
+* Self-host encrypted notes taking app for building my KB.
 * Encrypted data backup solution.
 * Setup and daily drive android with Lineage OS
 
@@ -69,6 +69,6 @@ Planned:
 
 Finished:
 
-* Browser privacy and security setup using firefox containers and other plugins.
+* Browser privacy and security setup using Firefox containers and other plugins.
 * Private email setup.
 * Daily drive Ubuntu.
