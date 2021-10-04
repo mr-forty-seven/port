@@ -49,7 +49,9 @@ highlight_name: true
 ---
 > ***Hello!***
 
-I'm Deepak, I work as an IT Support Engineer at an MSP in Melbourne. This site is an extension of my resume and LinkedIn profile and for myself to share more information about my interests and hobby projects I'm working on.
+I'm Deepak, I work as an IT Support Engineer at an MSP in Melbourne. This site is an extension of my resume and LinkedIn profile. 
+
+Also, for myself to share more information about my interests and hobby projects I'm working on.
 
 I'm currently working on self hosted home server project with various open-source applications that i use everyday and not rely on big companies with my data.
 
