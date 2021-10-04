@@ -1,4 +1,4 @@
----
+<!---
 title: Bug bounty acknowledgements links list
 subtitle: Links to list of companies that acknowlededged my reports.
 date: 2021-10-04T10:37:18.830Z
@@ -41,3 +41,5 @@ image:
 21. Oracle ‐ http://www.oracle.com/ocom/groups/public/@otn/documents/webcontent/2188432.
     xml
 22. Many more submissions to various companies.
+
+--->
