@@ -47,7 +47,7 @@ email: deepakthamatam@gmail.com
 superuser: true
 highlight_name: true
 ---
-> ***Hello!*** 
+> ***Hello!***
 
 I'm Deepak, I work as an IT Support Engineer at MCG Computer an MSP in South Melbourne. This site is an extension of my resume and LinkedIn profile and for myself to share more information about my interests and hobby projects I'm working on.
 
