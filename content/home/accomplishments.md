@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://mr47.me/post/getting-started/
+- certificate_url: https://mr47.me/post/bug-bounty-acknowledgements-links-list/
   date_end: "2017-05-01"
   date_start: "2011-05-01"
   description: |2-
