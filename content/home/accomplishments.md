@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
 - certificate_url:
   date_end: "2017-05-01"
-  date_start: "20011-05-01"
+  date_start: "2011-05-01"
   description: ""
   organization: Freelance Work
   organization_url:
