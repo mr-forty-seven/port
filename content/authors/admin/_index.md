@@ -19,9 +19,7 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/mr-forty-seven
-organizations:
-  - name: " "
-    url: null
+organizations: []
 education:
   courses: []
 email: i@mr47.anonaddy.com
