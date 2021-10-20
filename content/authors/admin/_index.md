@@ -1,7 +1,6 @@
 ---
-title: Deepak "Mr.47"
-role: IT Support Engineer, Computer Savvy, Power user, Superuser, Ethical
-  Hacker, Bug Bounty Hunter, Tech Enthusiast, Gamer.
+title: Mr.47
+role: ""
 avatar_filename: ""
 bio: ""
 interests:
@@ -17,41 +16,19 @@ interests:
   - Web Dev
   - PC Gaming
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/
   - icon: github
     icon_pack: fab
     link: https://github.com/mr-forty-seven
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
 organizations:
   - name: " "
     url: null
 education:
-  courses:
-    - course: Master of Information Technology
-      institution: " "
-      year: 2020
-    - course: Bachelor of Electrical Engineering
-      institution: " "
-      year: ""
-    - course: Diploma in Electrical Engineering
-      institution: " "
-      year: ""
-email: deepak@mr47.anonaddy.com
+  courses: []
+email: i@mr47.anonaddy.com
 superuser: true
 highlight_name: true
 ---
 > ***Hello!***
-
-I'm Deepak, I work as an IT Support Engineer at an MSP in Melbourne. This site is an extension of my resume and LinkedIn profile. 
-
-Also, for myself to share more information about my interests and hobby projects I'm working on.
 
 I'm currently working on self hosted home server project with various open-source applications that i use everyday and not rely on big companies with my data.
 
