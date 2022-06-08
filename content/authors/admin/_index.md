@@ -62,5 +62,3 @@ Finished:
 * Private email setup and using alias and relay domains.
 * Self-host encrypted notes taking app for building my KB.
 * Daily drive Ubuntu.
-
-But, Isn't this too much work and waste of time? Nope! This is what i like doing in my free time all the time and keep myself busy :p
