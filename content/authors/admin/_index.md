@@ -32,11 +32,11 @@ I'm currently working on self hosted home server project with various open-sourc
 
 I would like to have as much control as possible in regards to data and its privacy, security by using as many open sources software as I can and self-hosted them by myself at home or on a remote private server. 
 
-**PFsense + Netgear switch**
+**PFsense + Netgear switch (**I call this "Axe" my most played DotA2 hero**)**
 
 ![](pfsense.jpeg "Pfsense Firewall with PFblockerNG")
 
-Custom Xeon 2680v4 14 core 28 Thread, 32 GB DDR4 Ram, Old Quadro GPU, 4 * 4TB NAS Drives in ZFS Mirror in Truenas
+**Custom Xeon 2680v4 14 core 28 Thread, 32 GB DDR4 Ram, Old Quadro GPU, 4 * 4TB NAS Drives in ZFS Mirror in Truenas (**I call this "Invoker" my fav DotA2 hero**)**
 
 ![](server1.jpg)
 
